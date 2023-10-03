@@ -1,12 +1,4 @@
-/**
- *  Online shopping system
- *  Created by:
- *              PS/2017/009     K.M.T.D.Ariyawansha
- *              PS/2017/052     H.K.H.H.Gunathilaka
- *              PS/2017/097     T.A.T.Lakmal
- *              PS/2017/150     P.A.S.P.Pitigala
- *              PS/2017/249     B.M.Jayasinghe
- */
+
 
 import java.util.ArrayList;
 import java.util.List;
